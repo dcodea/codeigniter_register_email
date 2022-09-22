@@ -1,1 +1,7 @@
-<!-- this is demo file -->
+<?php
+
+
+echo "test";
+
+
+?>
