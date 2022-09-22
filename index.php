@@ -53,6 +53,8 @@
  *
  * NOTE: If you change these, also change the error_reporting() code below
  */
+
+//  this id for testing of clone and pushing the code to new branch
 	define('ENVIRONMENT', isset($_SERVER['CI_ENV']) ? $_SERVER['CI_ENV'] : 'development');
 
 /*
