@@ -8,8 +8,6 @@ echo "we are reverting our last push";
 // this is for testing only
 
 
-echo "this is just for displaying the output";
-
 ?>
 =======
 <!-- testing pull request -->
