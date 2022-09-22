@@ -7,8 +7,6 @@
 echo "we are reverting our last push";
 // this is for testing only
 
-echo "this just for showing or displaying message";
-// this is for testing only
 
 ?>
 =======
